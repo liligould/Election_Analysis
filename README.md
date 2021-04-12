@@ -64,6 +64,6 @@ we were able to extract the candidate names from each row (row[2]) by first sett
   ![winning candidate output](https://user-images.githubusercontent.com/80358062/114330915-6a46ca80-9b08-11eb-85a0-3938d575cd00.png)
 
 ## Summary
-This analysis was originally created to gather information a specific election but could very easily be used in future elections as well. With a simple update of variables, candidate names, and county's that voted this code could be applied. 
+This analysis was originally created to gather information on a specific election but could very easily be used in future elections as well. With a simple update of variables, candidate names, and county's that voted this code could be applied. 
 
 
