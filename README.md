@@ -1,7 +1,7 @@
 # Election Analysis
 
 ## Purpose
-With the help of Python, VS Code a report highlighting total votes, candidates and percentage of votes each candidate received. This information in turn can tell us who won the election.Based on the previous work completed, the purpose of this election analysis audit was to provide the commission with further information. We had to show them the voter turnout for each county, the percentage of votes from each county out of the total count as well as the county with the highest turnout. All this information could be found by looking at the reported total votes, candidates and percentage of votes each candidate received. For loops and conditional statements were used to provide this information.
+With the help of Python, VS Code a report highlighting total votes, candidates and percentage of votes each candidate received. This information in turn can tell us who won the election. Based on the previous work completed, the purpose of this election analysis audit was to provide the commission with further information. We had to show them the voter turnout for each county, the percentage of votes from each county out of the total count as well as the county with the highest turnout. All this information could be found by looking at the reported total votes, candidates and percentage of votes each candidate received. For loops and conditional statements were used to provide this information.
 
 ## Findings
 Below is a list of the important information gathered and how the results were found.
@@ -63,7 +63,7 @@ we were able to extract the candidate names from each row (row[2]) by first sett
   
   ![winning candidate output](https://user-images.githubusercontent.com/80358062/114330915-6a46ca80-9b08-11eb-85a0-3938d575cd00.png)
 
-Summary
-There is a statement to the election commission that explores how this script can be used for any election, with two examples for modifying the script. 
+## Summary
+This analysis was originally created to gather information a specific election but could very easily be used in future elections as well. With a simple update of variables, candidate names, and county's that voted this code could be applied. 
 
 
