@@ -8,7 +8,7 @@ Below is a list of the important information gathered and how the results were f
 
 - How many votes were cast in this congressional election?
   * By first initializing a total vote count equal to zero, votes counted for each candidate in each county were then added together to get the total vote count of 369,711.
-  *![Total Vote=0](https://user-images.githubusercontent.com/80358062/114328957-c9561080-9b03-11eb-99a2-0a8b584fef95.png)
+  * ![Total Vote=0](https://user-images.githubusercontent.com/80358062/114328957-c9561080-9b03-11eb-99a2-0a8b584fef95.png)
 
 - Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
   * To collect the total vote count and to collect individual information for each candidate a breakdown of number of votes per county and percentage of votes per county were necessary for further analysis. To do this a dictionary first had to be initialized. This allowed us to then track the number of votes per county
